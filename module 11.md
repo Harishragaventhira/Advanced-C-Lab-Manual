@@ -1,6 +1,6 @@
 ## EXP NO:21 C PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
-## NAME: Sriram R
-## REG NO: 212223230215
+## NAME: HARISH S
+## REG NO: 212223230072
 Aim:
 To write a C program to create a function to find the greatest number
 
