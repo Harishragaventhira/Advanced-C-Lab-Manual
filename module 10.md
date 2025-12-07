@@ -1,6 +1,6 @@
 ## EXP NO:16 C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
-## NAME: Sriram R
-## REG NO: 212223230215
+## NAME:HARISH S
+## REG NO: 212223230072
 Aim:
 To write a C program to search a given element in the given linked list.
 
